@@ -20,3 +20,4 @@
 
 ##
   
+### Se tudo estiver dando errado: respire, apague tudo e comece do zero.
