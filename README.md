@@ -1,3 +1,6 @@
+### Bem vindo!
+> Me chamo Ian, mas pode me chamar de Nerd. Aqui eu apresento alguns projetos que estou desenvolvendo.
+
 <div align="center">
   <a href="beacons.ai/ianvinicius">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerdaleatorio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
