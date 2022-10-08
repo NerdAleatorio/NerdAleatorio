@@ -20,4 +20,5 @@
 
 ##
   
-### Se tudo estiver dando errado: respire, apague tudo e comece do zero.
+### Dica de programador: 
+| Se tudo estiver dando errado: respire, apague tudo e comece do zero.
