@@ -26,7 +26,7 @@
 ##
   
 ### Sobre mim
-> Atualmente realizando o curso Técnico em Informática integrado ao Ensino Médio. 
+> Um garoto cursando o Ensino Médio brasileiro. Apaixonado pela cultura pop e interessado por programação.    
  
 ### Faça como um programador: 
 > Se tudo estiver dando errado: respire, apague tudo e comece do zero.
