@@ -26,7 +26,7 @@
 ##
   
 ### Sobre mim
-> Um garoto cursando o Ensino Médio brasileiro. Apaixonado pela cultura pop e interessado por programação.    
+> Apaixonado pela cultura pop e interessado por programação. Atualmente cursando o Ensino Médio. No meio de tudo isso, tentando sobreviver ao estado de atividade incessante no qual chamamos de vida.    
  
 ### Faça como um programador: 
 > Se tudo estiver dando errado: respire, apague tudo e comece do zero.
