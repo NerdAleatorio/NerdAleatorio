@@ -1,6 +1,8 @@
 ### Bem vindo!
 > Oi, meu nome é Ian! Aqui eu apresento alguns projetos que estou desenvolvendo.
 
+##
+
 <div align="center">
   <a href="https://github.com/NerdAleatorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerdaleatorio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -23,5 +25,8 @@
 
 ##
   
+### Sobre mim
+> Atualmente realizando o curso Técnico em Informática integrado ao Ensino Médio. 
+ 
 ### Faça como um programador: 
 > Se tudo estiver dando errado: respire, apague tudo e comece do zero.
