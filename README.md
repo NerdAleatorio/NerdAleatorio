@@ -1,5 +1,5 @@
 ### Bem vindo!
-> Eu sou Ian, mas pode me chamar de Nerd. Aqui eu apresento alguns projetos que estou desenvolvendo.
+> Oi, meu nome é Ian! Aqui eu apresento alguns projetos que estou desenvolvendo.
 
 <div align="center">
   <a href="https://github.com/NerdAleatorio">
