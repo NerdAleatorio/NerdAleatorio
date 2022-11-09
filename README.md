@@ -31,7 +31,4 @@
  
  ### Portfólio
  > Conheça mais sobre minha pessoa, meus conhecimentos, projetos realizados até o momento e formas de contato.
-  
-  ##
-  
-  <a href= "https://myportfolioiv.herokuapp.com/" target="_blank"><img src=""></a>
+  <a href= "https://myportfolioiv.herokuapp.com/" target="_blank"><img align="center" src="https://github.com/NerdAleatorio/portifolio-responsivo/blob/master/static/img/V.png"></a>
