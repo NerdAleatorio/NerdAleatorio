@@ -29,5 +29,5 @@
 ### Sobre mim
 > Apaixonado pela cultura pop e interessado por programação. Atualmente cursando o Ensino Médio. No meio de tudo isso, tentando sobreviver ao estado de atividade incessante no qual chamamos de vida.    
  
-### Faça como um programador: 
-> Se tudo estiver dando errado: respire, apague tudo e comece do zero.
+ ### Portfólio
+ > Conheça mais sobre minha pessoa, meus conhecimentos, projetos realizados até o momento e formas de contato.
