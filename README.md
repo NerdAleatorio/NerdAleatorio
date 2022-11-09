@@ -32,4 +32,4 @@
  ### Portfólio
  > Conheça mais sobre minha pessoa, meus conhecimentos, projetos realizados até o momento e formas de contato.
    
- [<img src="https://user-images.githubusercontent.com/81888827/200705592-f35c6030-4cde-42f3-9358-5cf3b136d66a.png">](https://https://myportfolioiv.herokuapp.com/)
+ [<img target="_blank" src="https://user-images.githubusercontent.com/81888827/200705592-f35c6030-4cde-42f3-9358-5cf3b136d66a.png">](https://myportfolioiv.herokuapp.com/)
