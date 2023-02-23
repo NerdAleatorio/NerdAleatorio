@@ -23,13 +23,3 @@
  <a href="https://discord.gg/DYXfhy8WYF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://twitter.com/uianviniciuz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-
-##
-  
-### Sobre mim
-> Apaixonado pela cultura pop e interessado por programação. Atualmente cursando o Ensino Médio. No meio de tudo isso, tentando sobreviver ao estado de atividade incessante no qual chamamos de vida.    
- 
- ### Portfólio
- > Conheça mais sobre minha pessoa, meus conhecimentos, projetos realizados até o momento e formas de contato.
-   
- [<img target="_blank" src="https://user-images.githubusercontent.com/81888827/200705592-f35c6030-4cde-42f3-9358-5cf3b136d66a.png">](https://myportfolioiv.herokuapp.com/)
